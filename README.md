@@ -131,11 +131,11 @@ Usage: config `<setting>` `<new value>`
 |--|--|--|
 | prefix | To change the prefix | new prefix |
 | track_analytics | To track analytics of guild | true/false |
-| mod_action | To setup Moderation commands usage log | channelid/#channel |
-| message | To setup Message log | channelid/#channel |
-| role, role_update | To setup role log | channelid/#channel |
-| member, member_update | To setup member log | channelid/#channel |
-| channel, channel_update | To setup channel log | channelid/#channel |
-| join_leave | To setup join and leave log | channelid/#channel |
-| mute | To setup mute role | channelid/#channel |
+| mod_action | To setup Moderation commands usage log | channelid/#channelname |
+| message | To setup Message log | channelid/#channelname |
+| role, role_update | To setup role log | channelid/#channelname |
+| member, member_update | To setup member log | channelid/#channelname |
+| channel, channel_update | To setup channel log | channelid/#channelname |
+| join_leave | To setup join and leave log | channelid/#channelname |
+| mute | To setup mute role | channelid/#channelname |
 
