@@ -34,7 +34,10 @@
 | uptime | Get the current uptime of the bot | ut |
 
 
-- CONFIGURATION CATEGORY  
+
+```js
+<CONFIGURATION CATEGORY>
+```
 
 | Command | Description  | Aliases |
 |--|--|--|
@@ -44,7 +47,10 @@
 | overrides | Get the overrides for the giving category |  |
 
 
-- GENERAL CATEGORY
+
+```js
+<GENERAL CATEGORY>
+```
 
 | Command | Description  | Aliases |
 |--|--|--|
@@ -58,7 +64,10 @@
 | setnick | Change nickname of user | nick, changenick |
 
 
-- GIVEAWAY CATEGORY
+
+```js
+<GIVEAWAY CATEGORY>
+```
 
 | Command | Description  | Aliases |
 |--|--|--|
@@ -67,7 +76,10 @@
 | gstart | startinging giveaway | gs |
 
 
-- INFORMATION CATEGORY
+
+```js
+<INFORMATION CATEGORY>
+```
 
 | Command | Description  | Aliases |
 |--|--|--|
@@ -78,7 +90,10 @@
 | inviteinfo | Check invite link information |  |
 
 
-- MODERATION CATEGORY
+
+```js
+<MODERATION CATEGORY>
+```
 
 | Command | Description  | Aliases |
 |--|--|--|
@@ -105,7 +120,10 @@
 | verification | Changes the server verification level |  |
 | warn | Warns a user inside of guild |  |
 
-- CONFIGURATION BASIC SETUP
+
+```js
+<CONFIGURATION BASIC SETUP>
+```
 
 Usage: config `<setting>` `<new value>`
 
