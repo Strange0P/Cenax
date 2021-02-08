@@ -1,17 +1,17 @@
 ## CENAX
 
-- A Discord Moderation Bot With login system
+- A Discord Moderation Bot With loging system
 - Default Prefix of Cenax `+`
-- 
-- 
-- 
+- To change the prefix just type `+config prefix <new_prefix>`
+- Free to join [Support Server](https://discord.gg/xD9gAyWZ8B)
+- Will adding soon more usefull commands.
 - Developed by [StrangeOP](https://github.com/Strange0P)<br />
 
 ### INVITE CENAX
 
 <p align="left">
-<a href="INVITE LINK HERE">
-    <img src="AVATAR LINK HERE" alt="CENAX" width="100"/>
+<a href="https://discord.com/oauth2/authorize?client_id=800298879445630978&permissions=8&scope=bot">
+    <img src="https://media.discordapp.net/attachments/783253133609795625/808381684760051712/CENAX.png?width=480&height=480" alt="CENAX" width="100"/>
   </a>
 
 <br />
@@ -36,7 +36,10 @@
 
 | Command | Description  | Aliases |
 |--|--|--|
-|  |  |  |
+| configure | Modify settings on the bot in your guild | cfg, setting, config |
+| guild | Get the configuration list of the guild | guildconfig, guilddata |
+| override | Configure the overrides |  |
+| overrides | Get the overrides for the giving category |  |
 
 
 - GENERAL CATEGORY
@@ -99,4 +102,20 @@
 | usermanagement | Moderation command on user | usermgmt, um |
 | verification | Changes the server verification level |  |
 | warn | Warns a user inside of guild |  |
+
+- CONFIGURATION BASIC SETUP
+
+Usage: config `<setting>` `<new value>`
+
+| Setting | Description  | New Value |
+|--|--|--|
+| prefix | To change the prefix | new prefix |
+| track_analytics | To track analytics of guild | true/false |
+| mod_action | To setup Moderation commands usage log | channelid/#channel |
+| message | To setup Message log | channelid/#channel |
+| role, role_update | To setup role log | channelid/#channel |
+| member, member_update | To setup member log | channelid/#channel |
+| channel, channel_update | To setup channel log | channelid/#channel |
+| join_leave | To setup join and leave log | channelid/#channel |
+| mute | To setup mute role | channelid/#channel |
 
