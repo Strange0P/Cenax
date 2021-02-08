@@ -1,6 +1,6 @@
 ## CENAX
 
-- A Discord Moderation Bot With loging system
+- A Discord Moderation Bot With logging system
 - Default Prefix of Cenax `+`
 - To change the prefix just type `+config prefix <new_prefix>`
 - Free to join [Support Server](https://discord.gg/xD9gAyWZ8B)
