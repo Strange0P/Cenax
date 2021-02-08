@@ -21,7 +21,9 @@
 ### BOT COMMANDS:
 
 
-- BOT INFO CATEGORY
+```js
+<BOT INFO CATEGORY>
+```
 
 | Command | Description  | Aliases |
 |--|--|--|
