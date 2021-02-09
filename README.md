@@ -97,7 +97,6 @@
 
 | Command | Description  | Aliases |
 |--|--|--|
-| infractiondm | Send a dm from the bot as a moderator | dm, msg, infdm |
 | addrole | To lock the channel | ar, r+ |
 | ban | Bans a user from the guild | b |
 | infraction | Infraction related commands | inf |
