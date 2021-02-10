@@ -55,7 +55,6 @@
 | Command | Description  | Aliases |
 |--|--|--|
 | avatar | To see avatar | av |
-| boldembed | To embed send message,Don't use space on TITLE | be |
 | embed | To embed send message | e |
 | imageembed | To embed image | img, ie |
 | jumbo | Sends a bigger version of the given emote's |  |
