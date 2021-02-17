@@ -4,7 +4,8 @@
 - Default Prefix of Cenax `+`
 - To change the prefix just type `+config prefix <new_prefix>`
 - Free to join [Support Server](https://discord.gg/xD9gAyWZ8B)
-- Will adding soon more usefull commands.
+- Can play YouTube Music.
+- Also have Giveaway commands.
 - Developed by [StrangeOP](https://github.com/Strange0P)<br />
 
 ### INVITE CENAX
@@ -45,6 +46,29 @@
 | guild | Get the configuration list of the guild | guildconfig, guilddata |
 | override | Configure the overrides |  |
 | overrides | Get the overrides for the giving category |  |
+
+
+```js
+<MUSIC CATEGORY>
+```
+
+| Command | Description  | Aliases |
+|--|--|--|
+| play | To play YouTube music | p |
+| pause | To pause currently playing music |  |
+| playlist | To play YouTube playlist | pl |
+| loop | loop your server queue | l |
+| lyrics | get song lyrics | ly |
+| nowplaying | get currently playing song details | np |
+| queue | get your server queue | q |
+| remove | remove song from your server queue | rm |
+| resume | start playing paused song | res |
+| search | srarch a song on YouTube to play | sc |
+| shuffle | shuffle your server queue | sfl |
+| skip | skip a song | s |
+| skipto | skip a specify song | st |
+| disconnect | disconnect bot from Voice Channel, and end your server queue | dc, stop |
+| volume | change playing volume | v, vol |
 
 
 
