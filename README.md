@@ -12,7 +12,7 @@
 
 <p align="left">
 <a href="https://discord.com/oauth2/authorize?client_id=800298879445630978&permissions=8&scope=bot">
-    <img src="https://media.discordapp.net/attachments/783253133609795625/808381684760051712/CENAX.png?width=480&height=480" alt="CENAX" width="100"/>
+    <img src="https://cdn.discordapp.com/attachments/783253133609795625/811580914697240586/Cenax_BW_NB.png" alt="CENAX" width="100"/>
   </a>
 
 <br />
