@@ -120,7 +120,7 @@
 
 
 ```js
-<LOGING SETUP>
+<LOGGING SETUP>
 ```
 
 Usage: config `<setting>` `<new value>`
