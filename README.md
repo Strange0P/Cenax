@@ -62,13 +62,13 @@
 | nowplaying | get currently playing song details | np |
 | queue | get your server queue | q |
 | remove | remove song from your server queue | rm |
-| resume | start playing paused song | res |
+| resume | start playing paused song | re |
 | search | srarch a song on YouTube to play | sc |
 | shuffle | shuffle your server queue | sfl |
 | skip | skip a song | s |
 | skipto | skip a specify song | st |
 | disconnect | disconnect bot from Voice Channel, and end your server queue | dc, stop |
-| volume | change playing volume | v, vol |
+| volume | change volume lavel | v, vol |
 
 
 
