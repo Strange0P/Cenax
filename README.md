@@ -48,28 +48,6 @@
 | overrides | Get the overrides for the giving category |  |
 
 
-```js
-<MUSIC CATEGORY>
-```
-
-| Command | Description  | Aliases |
-|--|--|--|
-| play | To play YouTube music | p |
-| pause | To pause currently playing music |  |
-| playlist | To play YouTube playlist | pl |
-| loop | loop your server queue | l |
-| lyrics | get song lyrics | ly |
-| nowplaying | get currently playing song details | np |
-| queue | get your server queue | q |
-| remove | remove song from your server queue | rm |
-| resume | start playing paused song | re |
-| search | srarch a song on YouTube to play | sc |
-| shuffle | shuffle your server queue | sfl |
-| skip | skip a song | s |
-| skipto | skip a specify song | st |
-| disconnect | disconnect bot from Voice Channel, and end your server queue | dc, stop |
-| volume | change volume lavel | v, vol |
-
 
 
 ```js
