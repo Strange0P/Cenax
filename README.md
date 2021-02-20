@@ -4,7 +4,7 @@
 - Default Prefix of Cenax `+`
 - To change the prefix just type `+config prefix <new_prefix>`
 - Free to join [Support Server](https://discord.gg/xD9gAyWZ8B)
-- Can play YouTube Music.
+- Will adding soon more usefull commands.
 - Also have Giveaway commands.
 - Developed by [StrangeOP](https://github.com/Strange0P)<br />
 
