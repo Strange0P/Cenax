@@ -23,20 +23,6 @@
 
 
 ```js
-<BOT INFO CATEGORY>
-```
-
-| Command | Description  | Aliases |
-|--|--|--|
-| about | Get some basic information about the bot | info |
-| help | Super basic helper command so people know | h, cmds, commands |
-| invite | To invite this bot on your server | inv |
-| ping | Returns bot and API latency in milliseconds | ms, latency |
-| uptime | Get the current uptime of the bot | ut |
-
-
-
-```js
 <CONFIGURATION CATEGORY>
 ```
 
@@ -84,6 +70,11 @@
 
 | Command | Description  | Aliases |
 |--|--|--|
+| about | Get some basic information about the bot | info |
+| help | Super basic helper command so people know | h, cmds, commands |
+| invite | To invite this bot on your server | inv |
+| ping | Returns bot and API latency in milliseconds | ms, latency |
+| uptime | Get the current uptime of the bot | ut |
 | badges | Gets information about user Badges |  |
 | serverinfo | Gets some useful information about the server | server |
 | userinfo | Gets some useful information about a user/bot | whois |
