@@ -11,7 +11,7 @@
 ### INVITE CENAX
 
 <p align="left">
-<a href="https://discord.com/oauth2/authorize?client_id=800298879445630978&permissions=8&scope=bot">
+<a href="https://discord.com/api/oauth2/authorize?client_id=784656991527370793&permissions=8&scope=bot">
     <img src="https://cdn.discordapp.com/attachments/783253133609795625/811580914697240586/Cenax_BW_NB.png" alt="CENAX" width="100"/>
   </a>
 
