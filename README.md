@@ -88,7 +88,7 @@
 | imageembed | To embed image | img, ie |
 | idpass | Share custom room idpass | idp |
 | meme | Sends random memes | |
-| jumbo | Sends a bigger version of the given emote's |  |
+| jumbo | Sends a bigger version of the given emote's | big, embig |
 | reminder | Reminds you of something | remind |
 | say | send your message by bot |  |
 | setnick | Change nickname of user | nick, changenick |
