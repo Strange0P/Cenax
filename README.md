@@ -5,7 +5,7 @@
 - To change the prefix just type `+config prefix <new_prefix>`
 - Free to join [Support Server](https://discord.gg/xD9gAyWZ8B)
 - Can play YouTube Music.
-- Also have Giveaway commands.
+- Also have meme and Giveaway commands.
 - Developed by [StrangeOP](https://github.com/Strange0P)<br />
 
 ### INVITE CENAX
@@ -29,8 +29,7 @@
 
 | Command | Description  | Aliases |
 |--|--|--|
-| channelcreate | Create a Channel | cch |
-| deletechannel | Delete a Channel | dch |
+| banlist | Get list of ban members | bl |
 | ban | Bans a user from the guild | b |
 | multiban | Bans a couple of users inside of guild | mb |
 | multikick | Kicks a couple of users inside of guild | mk |
@@ -84,8 +83,11 @@
 | Command | Description  | Aliases |
 |--|--|--|
 | avatar | To see avatar | av |
+| anime | Get the information about any anime | |
 | embed | To embed send message | e |
 | imageembed | To embed image | img, ie |
+| idpass | Share custom room idpass | idp |
+| meme | Sends random memes | |
 | jumbo | Sends a bigger version of the given emote's |  |
 | reminder | Reminds you of something | remind |
 | say | send your message by bot |  |
@@ -99,11 +101,6 @@
 
 | Command | Description  | Aliases |
 |--|--|--|
-| about | Get some basic information about the bot | info |
-| help | Super basic helper command so people know | h, cmds, commands |
-| invite | To invite this bot on your server | inv |
-| ping | Returns bot and API latency in milliseconds | ms, latency |
-| uptime | Get the current uptime of the bot | ut |
 | gend | Ending giveaway | ge |
 | grerole | reroleing giveaway | grr |
 | gstart | startinging giveaway | gs |
@@ -116,6 +113,13 @@
 
 | Command | Description  | Aliases |
 |--|--|--|
+| about | Get some basic information about the bot | info |
+| help | Super basic helper command so people know | h, cmds, commands |
+| invite | To invite this bot on your server | inv |
+| ping | Returns bot and API latency in milliseconds | ms, latency |
+| uptime | Get the current uptime of the bot | ut |
+| permissions | Check your permissions of current channel | perms |
+| serveravatar | get server avatar | sa |
 | badges | Gets information about user Badges |  |
 | serverinfo | Gets some useful information about the server | server |
 | userinfo | Gets some useful information about a user/bot | whois |
@@ -129,6 +133,8 @@
 
 | Command | Description  | Aliases |
 |--|--|--|
+| channelcreate | Create a Channel | cch |
+| deletechannel | Delete a Channel | dch |
 | addrole | To lock the channel | ar, r+ |
 | infraction | Infraction related commands | inf |
 | kick | Kicks a user from the guild | k |
